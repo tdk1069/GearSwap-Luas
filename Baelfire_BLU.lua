@@ -70,8 +70,8 @@ function get_sets()
 		sets.aftercast = {}
 		sets.aftercast.TP = sets.TP
 		sets.aftercast.Idle = {head="Uk'uxkaj Cap",ring1="Sheltered Ring",legs="Blood Cuisses",ring2="Defending Ring",body="Luhlaza Jubbah"}
-		sets.aftercast.IdleRefresh = {head="Wivre Hairpin",ring1="Sheltered Ring",legs="Blood Cuisses",ring2="Defending Ring"}
-		sets.aftercast.IdleRefreshLow = {head="Wivre Hairpin",ring1="Sheltered Ring",legs="Blood Cuisses",ring2="Defending Ring",waist="Fucho-no-Obi"}
+		sets.aftercast.IdleRefresh = {head="Wivre Hairpin",ring1="Sheltered Ring",legs="Blood Cuisses",ring2="Defending Ring",body="Luhlaza Jubbah"}
+		sets.aftercast.IdleRefreshLow = {head="Wivre Hairpin",ring1="Sheltered Ring",legs="Blood Cuisses",ring2="Defending Ring",waist="Fucho-no-Obi",body="Luhlaza Jubbah"}
 
 		-- Spell Types
 		Blue_Physical = S{'Foot Kick','Power Attack','Sprout Smack','Wild Oats','Queasyshroom','Battle Dance','Head Butt','Feather Storm','Helldive','Bludgeon','Claw Cyclone','Screwdriver','Grand Slam','Smite of Rage','Pinecone Bomb','Jet Stream','Uppercut','Terror Touch','Mandibular Bite','Sickle Slash','Death Scissors','Dimensional Death','Spiral Spin','Seedspray','Body Slam','Spinal Cleave','Frenetic Rip','Frypan','Hydro Shot','Tail Slap','Hysteric Barrage','Asuran Claws','Cannonball','Disseverment','Sub-zero Smash','Ram Charge','Vertical Cleave','Final Sting','Goblin Rush','Vanity Dive','Benthic Typhoon','Whirl of Rage','Quad. Continuum','Empty Thrash','Delta Thrust','Heavy Strike','Sudden Lunge','Quadrastrike','Tourbillion','Amorphic Spikes','Barbed Crescent','Bilgestorm','Paralyzing Triad','Glutinous Dart','Thrashing Assault','Sinker Drill'}
